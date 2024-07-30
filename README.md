@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Harshit Borana
-- 👀 I’m interested in Web Development and Internet Of Thingd
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate With robotics & development Enthusiasts 
-- 📫 How to reach me -- connect with me on LinkedIn https://www.linkedin.com/in/harshit-borana-3a685a257/
-- ⚡ Fun fact: I love Hardware which have software..
+👋 Hi there! I'm Harshit Borana
 
-<!---
-harshit075/harshit075 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about **Web Development** and the **Internet of Things (IoT)**. As a current learner in web development, I enjoy creating solutions that blend hardware and software.
+
+- 🌱 **Learning:** Currently diving deep into the world of web development.
+- 💞️ **Collaboration:** Looking to connect with fellow enthusiasts in robotics and development. If you share similar interests, let's create something amazing together!
+- ⚡ **Fun Fact:** I have a knack for combining hardware with software to create innovative projects.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harshit-borana-3a685a257/).
+
+Let's innovate and build together! 🚀
+
