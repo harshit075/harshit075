@@ -91,9 +91,9 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 
 | Year       | Degree/Certificate                    | Institute                                      | Score     |
 |------------|----------------------------------------|------------------------------------------------|-----------|
-| 2021-2025  | B.Tech in Computer Science & Engineering | Geetanjali Institute of Technical Studies, Udaipur | 8.5 / 10 |
-| 2020-2021  | CBSE (XII)                             | Kendriya Vidyalaya No.1, Neemuch                          |  74 % |
-| 2018-2019  | CBSE (X)                               | Spring Wood Senior Sr. School, Neemuch                         |  76 % |
+| 2022-2026  | B.Tech in Computer Science & Engineering | Geetanjali Institute of Technical Studies, Udaipur | 8.5 / 10 |
+| 2021-2022  | CBSE (XII)                             | Kendriya Vidyalaya No.1, Neemuch                          |  74 % |
+| 2019-2020  | CBSE (X)                               | Spring Wood Senior Sr. School, Neemuch                         |  76 % |
 
 ---
 
