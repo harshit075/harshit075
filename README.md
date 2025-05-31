@@ -8,7 +8,7 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 - **Email**: harshitborana2@gmail.com  
 - **Phone**: +91-8305134724  
 - **GitHub**: [Github](https://github.com/harshit075)  
-- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/harshit-borana-%F0%9F%87%AE%F0%9F%87%B3-3a685a257])
+- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/harshit-borana-%F0%9F%87%AE%F0%9F%87%B3-3a685a257/])
 
 ---
 
@@ -100,7 +100,7 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 ## 🔗 Connect with Me
 
 - **GitHub**: [Github](https://github.com/harshit075)  
-- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/harshit-borana-%F0%9F%87%AE%F0%9F%87%B3-3a685a257]) 
+- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/harshit-borana-%F0%9F%87%AE%F0%9F%87%B3-3a685a257/]) 
 - **Email**: harshitborana2@gmail.com  
 
 Feel free to explore my repositories, collaborate on tech/hardware projects, or reach out for exciting opportunities. Let's innovate together!
