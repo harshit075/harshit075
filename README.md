@@ -1,22 +1,22 @@
 # Hi there, I'm Harshit Borana 👋
 
-I am a passionate and driven Computer Science Engineering Undergraduate with a strong inclination toward **DevOps, IoT, and Full Stack Web Development**. With a solid foundation in both hardware and software, I aim to work on cutting-edge technology that blends automation, development, and embedded systems. I am always eager to learn and contribute to impactful tech solutions that improve lives and push boundaries.
+I am a passionate and driven Computer Science Engineering Undergraduate with a strong inclination toward **DevOps and IOT**. With a solid foundation in both hardware and software, I aim to work on cutting-edge technology that blends automation, development, and embedded systems. I am always eager to learn and contribute to impactful tech solutions that improve lives and push boundaries.
 
 ---
 
 ## 📫 Contact Me  
 - **Email**: harshitborana2@gmail.com  
 - **Phone**: +91-8305134724  
-- **GitHub**: [Harshit-Borana](https://github.com/Harshit-Borana)  
-- **LinkedIn**: [Harshit Borana](https://linkedin.com/in/harshitborana)
+- **GitHub**: [Github](https://github.com/harshit075)  
+- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/harshit-borana-%F0%9F%87%AE%F0%9F%87%B3-3a685a257])
 
 ---
 
 ## 👨‍💻 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at *Geetanjali Institute of Technical Studies, Udaipur*  
 - 💡 Enthusiastic about **DevOps**, **Cloud Infrastructure**, **IoT Systems**, and **Open Source Contributions**  
-- 🛠 Love building things that integrate **hardware and software**  
-- 📈 Exploring **DSA**, **Linux**, **Networking**, and **Automation**
+- 🛠 Love building things that integrate **Software And Hardware tech**  
+- 📈 Exploring **DevOps**, **Linux**, **Networking**, and **Automation**
 
 ---
 
@@ -28,10 +28,12 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 - Deployed microservices using **Docker Swarm** and **Kubernetes**
 
 ### Internships & Research  
-- 🔬 Applied to top institutions like **IIT Hyderabad**, **DRDO**, **ISRO**, **BARC**, and **NRSC** for research internships  
-- 🧠 Working on AI, Robotics, and Cloud-Integrated Solutions
-
----
+### 🔧 DevOps Engineer Intern | **Webanix Solutions** | April 2025 – Present
+- Assisted in managing and deploying applications across **Dev and Prod environments**
+- Implemented **CI/CD pipelines** using **Jenkins** and **Bitbucket**
+- Utilized **Docker** for containerization and managed services on **AWS EC2**
+- Deployed and configured **NGINX** for reverse proxy and load balancing
+- Integrated **IoT Core** for secure **MQTT-based data transmission**
 
 ## 🔨 Major Projects
 
@@ -77,11 +79,11 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 
 ## 📜 Certifications
 
-- ✅ **AWS Cloud Practitioner** – October 2024  
-- ✅ **Python for Data Science**  
-- ✅ **Programming in C & C++ – NPTEL**  
-- ✅ **DBMS – NPTEL**  
-- ✅ **Data Science – Internshala**
+- ✅ **AWS Cloud Practitioner Essentials** – *October 2024*  
+- ✅ **DevOps: Beginner to Advanced (Udemy)** – *March 2025*  
+- ✅ **MERN Stack Development** – *April 2024*  
+- ✅ **Robotics Advanced** – *May 2023*  
+- 🚧 **Backend Development** – *Ongoing*  
 
 ---
 
@@ -89,16 +91,16 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 
 | Year       | Degree/Certificate                    | Institute                                      | Score     |
 |------------|----------------------------------------|------------------------------------------------|-----------|
-| 2021-2025  | B.Tech in Computer Science & Engineering | Geetanjali Institute of Technical Studies, Udaipur | _Ongoing_ |
-| 2020-2021  | CBSE (XII)                             | [Insert School Name]                           | [Insert %]|
-| 2018-2019  | CBSE (X)                               | [Insert School Name]                           | [Insert %]|
+| 2021-2025  | B.Tech in Computer Science & Engineering | Geetanjali Institute of Technical Studies, Udaipur | 8.5 / 10 |
+| 2020-2021  | CBSE (XII)                             | [Insert School Name]                           | [74 %]|
+| 2018-2019  | CBSE (X)                               | [Insert School Name]                           | [76 %]|
 
 ---
 
 ## 🔗 Connect with Me
 
-- **GitHub**: [Harshit-Borana](https://github.com/Harshit-Borana)  
-- **LinkedIn**: [Harshit Borana](https://linkedin.com/in/harshitborana)  
+- **GitHub**: [Github](https://github.com/harshit075)  
+- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/harshit-borana-%F0%9F%87%AE%F0%9F%87%B3-3a685a257]) 
 - **Email**: harshitborana2@gmail.com  
 
 Feel free to explore my repositories, collaborate on tech/hardware projects, or reach out for exciting opportunities. Let's innovate together!
