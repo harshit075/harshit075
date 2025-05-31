@@ -63,11 +63,6 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 - **Monitoring**: Grafana, Prometheus
 
 ---
-## 📊 GitHub Stats
-
-![HarshitBorana's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitBorana&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitBorana&layout=compact&theme=radical)
 
 ---
 ## 🏅 Achievements
