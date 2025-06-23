@@ -37,9 +37,9 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 
 ## 🔨 Major Projects
 
-### 🩺 IoT-based Virtual Doctor Robot  
-- **Tech Stack**: Raspberry Pi 5, Arduino, Node.js, React.js  
-- Collects patient data via sensors, provides video consultations, and supports hospital automation  
+### 🌍 Eco Earth – Eco Udaipur Action Hub  
+- **Tech Stack**: React.js, TypeScript, Node.js, Firebase, Docker, NGINX, Google Cloud VM  
+- A civic-tech platform that enables food donation, voting on government projects, and eco-event participation. Citizens can contribute to sustainability efforts through a seamless web interface, with real-time data, secure login, and deployment on ecoearth.site.  
 
 ### 🌳 Tree Cutting Alert System  
 - Alert-based IoT system to detect illegal tree cutting with real-time alerts  
