@@ -102,6 +102,7 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 
 - **GitHub**: [Github](https://github.com/harshit075)  
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/harshit-borana-%F0%9F%87%AE%F0%9F%87%B3-3a685a257/) 
-- **Email**: harshitborana2@gmail.com  
+- **Email**: harshitborana2@gmail.com
+![snake gif](https://github.com/harshit075/harshit075/blob/output/github-snake-dark.svg)
 
 Feel free to explore my repositories, collaborate on tech/hardware projects, or reach out for exciting opportunities. Let's innovate together!
