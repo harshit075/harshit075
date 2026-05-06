@@ -6,7 +6,8 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 
 ## 📫 Contact Me  
 - **Email**: harshitborana2@gmail.com  
-- **Phone**: +91-8305134724  
+- **Phone**: +91-8305134724
+- **Portfolio**: [Portfolio](https://harshitborana.cloud)
 - **GitHub**: [Github](https://github.com/harshit075)  
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/harshit-borana-%F0%9F%87%AE%F0%9F%87%B3-3a685a257/) 
 
