@@ -109,7 +109,7 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <p align="center">
-  <img src="./devops-banner.svg" alt="DevOps Banner" width="100%"/>
+  <img src="./devops_infinity_loop.svg" alt="DevOps Banner" width="100%"/>
 </p>
 
  
