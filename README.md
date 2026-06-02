@@ -108,6 +108,8 @@ I am a passionate and driven Computer Science Engineering Undergraduate with a s
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
+
+ 
 
 Feel free to explore my repositories, collaborate on tech/hardware projects, or reach out for exciting opportunities. Let's innovate together!
