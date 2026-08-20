@@ -145,7 +145,7 @@ End-to-end deployment pipeline for a **microservices-based application** across 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=harshit075&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit075&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=harshit075&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
