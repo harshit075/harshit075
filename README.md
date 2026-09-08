@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%40+Kadellabs;AWS+%26+Azure+Multi-Cloud+Architect;Terraform+%7C+Kubernetes+%7C+CI%2FCD+Pipelines;Smart+India+Hackathon+Hardware+Winner;2x+Patent+Holder+%7C+Turning+Infra+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=DevOps+Engineer+%40+Kadellabs;AWS+%26+Azure+Multi-Cloud+Architect;Terraform+%7C+Kubernetes+%7C+CI%2FCD+Pipelines;Smart+India+Hackathon+Hardware+Winner;2x+Patent+Holder+%7C+Turning+Infra+into+Code" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -28,9 +28,58 @@
 
 <br/>
 
+<!-- Infrastructure Health Metrics & KPI Ribbon -->
+<div align="center">
+
+[![Pipelines](https://img.shields.io/badge/Pipelines_Shipped-50+-00e5ff?style=flat-square&logo=git&logoColor=white)](#-interactive-deployment-pipeline)
+[![Environments](https://img.shields.io/badge/Environments_Automated-15+_Dev_Stage_Prod-38bdf8?style=flat-square&logo=terraform&logoColor=white)](#%EF%B8%8F-multi-service-cloud-architecture)
+[![Target Uptime](https://img.shields.io/badge/Target_Uptime-99.99%25-4ade80?style=flat-square&logo=uptimekuma&logoColor=white)](#-architecture-flagship-multi-service-cloud-deployment)
+[![Efficiency](https://img.shields.io/badge/Deployment_Speed-+65%25_Cycle_Efficiency-a855f7?style=flat-square&logo=speedtest&logoColor=white)](#-enterprise-jenkins-shared-library)
+[![Cloud Resources](https://img.shields.io/badge/Cloud_Resources-250+_Managed-f59e0b?style=flat-square&logo=amazonwebservices&logoColor=white)](#%EF%B8%8F-professional-experience)
+
+</div>
+
+<br/>
+
+<!-- IoT Sensor-to-Cloud Telemetry Flow Divider -->
+<div align="center">
+  <p>
+    <code>📡 [Edge Sensor / ESP32]</code>
+    <b>&nbsp;─── <small>(MQTT / TLS 8883)</small> ──►&nbsp;</b>
+    <code>☁️ [AWS IoT Core Gateway]</code>
+    <b>&nbsp;─── <small>(K8s Pod Event)</small> ──►&nbsp;</b>
+    <code>📊 [Grafana Real-time Telemetry]</code>
+  </p>
+</div>
+
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="34" /> About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32" /> Terminal Boot Sequence (`$ whoami`)
+
+```bash
+harshit@cloud-node-01:~$ whoami
+harshit.borana (DevOps Engineer @ Kadellabs)
+
+harshit@cloud-node-01:~$ cat /etc/engineer-release
+ENGINEER="Harshit Borana"
+SPECIALIZATION="Cloud Automation | Zero-Downtime CI/CD | Kubernetes & IaC"
+DEGREE="B.Tech Computer Science & Engineering (Class of 2026) — 8.6/10 CGPA"
+PATENTS="2 Published Patents (IoT Assistive Robotics & Autonomous Water Vessel)"
+AWARDS="Smart India Hackathon Winner (Hardware) | Amazon Future Engineer 2nd Prize"
+
+harshit@cloud-node-01:~$ kubectl get pods -n production -o wide
+NAME                                     READY   STATUS    RESTARTS   IP             NODE
+jenkins-shared-libraries-7d84f-x29       1/1     Running   0          10.244.0.12    aws-us-east-1a
+terraform-state-controller-5c91b-8mk     1/1     Running   0          10.244.1.45    azure-centralindia-1
+k8s-ingress-nginx-controller-6d2a-4wz    1/1     Running   0          10.244.2.89    prod-gateway-cluster
+prometheus-grafana-telemetry-810a-p9l    1/1     Running   0          10.244.0.98    observability-node
+iot-edge-mqtt-broker-992bc-k7j           1/1     Running   0          192.168.1.10   hybrid-edge-edge01
+
+harshit@cloud-node-01:~$ terraform plan --target=production_infrastructure
+Plan: 1 to add, 0 to change, 0 to destroy.
+Outputs:
+  + status = "Available for High-Impact DevOps, Cloud Architecture & Systems Engineering"
+```
 
 <table>
   <tr>
@@ -39,12 +88,12 @@
         I'm a <b>DevOps Engineer</b> at <b>Kadellabs</b> and a recent <b>B.Tech in Computer Science & Engineering (Class of 2026)</b> graduate from <i>Geetanjali Institute of Technical Studies, Udaipur</i> with a CGPA of <b>8.6/10</b>.
       </p>
       <p>
-        My engineering focus centers on building <b>self-healing, zero-downtime CI/CD workflows</b> and enterprise cloud infrastructure across <b>AWS</b> and <b>Azure</b>. With a strong foundation in <b>IoT, Robotics, and Embedded Systems</b>, I bridge the physical world with cloud-native automation.
+        My engineering focus centers on architecting <b>resilient, self-healing, zero-downtime CI/CD workflows</b> and multi-cloud environments across <b>AWS</b> and <b>Azure</b>. With deep roots in <b>IoT, Robotics, and Embedded Systems</b>, I excel at linking hardware telemetry with high-throughput cloud backends.
       </p>
       <ul>
         <li>🔭 <b>Current Role:</b> DevOps Engineer @ <b>Kadellabs</b></li>
         <li>☁️ <b>Cloud Ecosystems:</b> AWS (EC2, S3, RDS, Lambda, Route 53, IAM) & Microsoft Azure</li>
-        <li>⚙️ <b>Infrastructure as Code:</b> Terraform (Reusable modules & state management)</li>
+        <li>⚙️ <b>Infrastructure as Code:</b> Terraform (Reusable modules & state locking)</li>
         <li>🚀 <b>CI/CD Engines:</b> Jenkins (Groovy Shared Libraries), GitLab CI, GitHub Actions</li>
         <li>🐳 <b>Orchestration:</b> Docker, Docker Swarm & Kubernetes</li>
         <li>🏆 <b>Innovations:</b> Smart India Hackathon Winner (Hardware) & 2x Patent Holder</li>
@@ -58,18 +107,115 @@
   </tr>
 </table>
 
-```yaml
-name: Harshit Borana
-role: DevOps Engineer @ Kadellabs
-education: B.Tech in CSE (2022 - 2026) | CGPA: 8.6/10
-institution: Geetanjali Institute of Technical Studies, Udaipur
-core_focus: Cloud Automation, Zero-Downtime CI/CD, Microservices & Edge IoT
-philosophy: "If it has to be done twice, automate it. If it fails, build it to self-heal."
+---
+
+### 🚀 Interactive Deployment Pipeline
+
+<div align="center">
+
+<p><i>Click any stage below to jump directly into the corresponding architecture & code implementation:</i></p>
+
+<table>
+  <tr>
+    <td align="center"><b>Stage 1: Build</b></td>
+    <td align="center"><b>Stage 2: Validate</b></td>
+    <td align="center"><b>Stage 3: Package</b></td>
+    <td align="center"><b>Stage 4: Orchestrate</b></td>
+    <td align="center"><b>Stage 5: Observe</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#-enterprise-jenkins-shared-library">
+        <img src="https://img.shields.io/badge/Jenkins-Groovy_Library-00e5ff?style=for-the-badge&logo=jenkins&logoColor=black"/>
+      </a>
+      <br/><code>✔ 10+ Microservices</code>
+    </td>
+    <td align="center">
+      <a href="#-enterprise-jenkins-shared-library">
+        <img src="https://img.shields.io/badge/SonarQube-Quality_Gate-4ade80?style=for-the-badge&logo=sonarqube&logoColor=black"/>
+      </a>
+      <br/><code>✔ Zero Vulnerabilities</code>
+    </td>
+    <td align="center">
+      <a href="#%EF%B8%8F-multi-service-cloud-architecture">
+        <img src="https://img.shields.io/badge/Docker-Containerize-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      </a>
+      <br/><code>✔ Distroless Images</code>
+    </td>
+    <td align="center">
+      <a href="#%EF%B8%8F-multi-service-cloud-architecture">
+        <img src="https://img.shields.io/badge/Kubernetes-Rolling_Update-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+      </a>
+      <br/><code>✔ Zero Downtime</code>
+    </td>
+    <td align="center">
+      <a href="#%EF%B8%8F-multi-service-cloud-architecture">
+        <img src="https://img.shields.io/badge/Prometheus-Alertmanager-F46800?style=for-the-badge&logo=prometheus&logoColor=white"/>
+      </a>
+      <br/><code>✔ Real-time Metrics</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🏛️ Architecture: Flagship Multi-Service Cloud Deployment
+
+The live GitOps and container orchestration topology driving multi-service deployments across AWS and Azure:
+
+```mermaid
+flowchart LR
+    subgraph DEV ["💻 Developer Workspace"]
+        A[Git Push / Pull Request]
+    end
+
+    subgraph CICD ["⚙️ CI/CD Automation Engine"]
+        B[Jenkins Shared Library]
+        C[SonarQube Quality Gate]
+        D[Docker Multi-Arch Build]
+        B --> C --> D
+    end
+
+    subgraph IAC ["📦 Infrastructure as Code"]
+        E[Terraform S3 State Lock]
+        F[Multi-Cloud Provisioning AWS / Azure]
+        E --> F
+    end
+
+    subgraph CLUSTER ["☸️ Production Kubernetes Cluster"]
+        G[NGINX Ingress Gateway]
+        H[Microservice Pods API / Auth]
+        I[Managed DB RDS / MongoDB]
+        G --> H --> I
+    end
+
+    subgraph OBS ["📈 Observability Stack"]
+        J[Prometheus Metric Scraper]
+        K[Grafana Dashboards & Alerts]
+        J --> K
+    end
+
+    A --> B
+    D --> E
+    F --> G
+    H -. Telemetry .-> J
+
+    classDef dev fill:#1e293b,stroke:#00e5ff,stroke-width:2px,color:#fff;
+    classDef cicd fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff;
+    classDef cluster fill:#0d1b2a,stroke:#4ade80,stroke-width:2px,color:#fff;
+    classDef obs fill:#1a102f,stroke:#c084fc,stroke-width:2px,color:#fff;
+
+    class DEV dev;
+    class CICD,IAC cicd;
+    class CLUSTER cluster;
+    class OBS obs;
 ```
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="34" /> DevOps & Cloud Architecture Lifecycle
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="32" /> DevOps & Cloud Architecture Visuals
 
 <div align="center">
 
@@ -92,7 +238,7 @@ philosophy: "If it has to be done twice, automate it. If it fails, build it to s
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="34" /> Tech Stack & Tooling
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="32" /> Tech Stack & Tooling
 
 <div align="center">
 
@@ -119,7 +265,15 @@ philosophy: "If it has to be done twice, automate it. If it fails, build it to s
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" /> Professional Experience
+### 🌱 What I'm Exploring Right Now
+
+- 🔬 **eBPF & Kernel-Level Observability:** Experimenting with Cilium & Tetragon for deep-packet inspection, identity-aware Kubernetes networking, and low-overhead security monitoring.
+- ⚡ **GitOps with ArgoCD & Flagger:** Implementing progressive delivery patterns (Canary & Blue/Green) with automated rollbacks driven by live Prometheus error rates.
+- 🦀 **Rust for Systems & Edge Infrastructure:** Building memory-safe CLI tools and lightweight telemetry daemons for resource-constrained IoT gateways.
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" /> Professional Experience
 
 #### 🚀 DevOps Engineer — **Kadellabs**
 *Current*
@@ -138,7 +292,7 @@ philosophy: "If it has to be done twice, automate it. If it fails, build it to s
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="34" /> Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" /> Featured Projects
 
 <table>
   <tr>
@@ -207,7 +361,7 @@ philosophy: "If it has to be done twice, automate it. If it fails, build it to s
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="34" /> Honors, Awards & Patents
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32" /> Honors, Awards & Patents
 
 <div align="left">
 
@@ -221,6 +375,14 @@ philosophy: "If it has to be done twice, automate it. If it fails, build it to s
 - 📜 **Patent Granted / Filed:** *Smart Autonomous Garbage Collector Boat (Vikrant.ai)*
 
 </div>
+
+---
+
+### ✍️ Technical Insights & Engineering Logs
+
+- 📝 **[Architecting Scalable CI/CD with Groovy Shared Libraries]** — *Eliminating boilerplate code across microservices with modular Jenkins pipelines.*
+- 📝 **[Zero-Downtime Blue/Green Deployments on Kubernetes]** — *Leveraging NGINX Ingress and Kubernetes rollout strategies for uninterrupted customer traffic.*
+- 📝 **[Bridging Edge Telemetry with AWS IoT Core & MQTT]** — *Designing robust sensor data pipelines from ESP32/Raspberry Pi to cloud datastores.*
 
 ---
 
@@ -261,7 +423,7 @@ philosophy: "If it has to be done twice, automate it. If it fails, build it to s
 
 <div align="center">
 
-  <!-- Main Stats & Streak Cards (Powered by verified endpoints) -->
+  <!-- Main Stats & Streak Cards (Powered by verified extended endpoint) -->
   <img src="https://github-stats-extended.vercel.app/api?username=harshit075&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Harshit's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=harshit075&theme=tokyonight&hide_border=true" width="48%" alt="Harshit's Streak Stats" />
 
@@ -310,7 +472,7 @@ philosophy: "If it has to be done twice, automate it. If it fails, build it to s
 
   <br/><br/>
 
-  <p><i>"Transforming manual infrastructure into automated, self-healing code."</i></p>
+  <p><i>harshit@cloud-node-01:~$ "If it has to be done twice, automate it. If it fails, build it to self-heal."</i></p>
 
   <!-- Wave Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,30:415a77,70:1b263b,100:0d1b2a&height=120&section=footer" width="100%"/>
