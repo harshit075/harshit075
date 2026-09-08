@@ -30,7 +30,33 @@
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="34" /> About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        I'm a <b>DevOps Engineer</b> at <b>Kadellabs</b> and a recent <b>B.Tech in Computer Science & Engineering (Class of 2026)</b> graduate from <i>Geetanjali Institute of Technical Studies, Udaipur</i> with a CGPA of <b>8.6/10</b>.
+      </p>
+      <p>
+        My engineering focus centers on building <b>self-healing, zero-downtime CI/CD workflows</b> and enterprise cloud infrastructure across <b>AWS</b> and <b>Azure</b>. With a strong foundation in <b>IoT, Robotics, and Embedded Systems</b>, I bridge the physical world with cloud-native automation.
+      </p>
+      <ul>
+        <li>🔭 <b>Current Role:</b> DevOps Engineer @ <b>Kadellabs</b></li>
+        <li>☁️ <b>Cloud Ecosystems:</b> AWS (EC2, S3, RDS, Lambda, Route 53, IAM) & Microsoft Azure</li>
+        <li>⚙️ <b>Infrastructure as Code:</b> Terraform (Reusable modules & state management)</li>
+        <li>🚀 <b>CI/CD Engines:</b> Jenkins (Groovy Shared Libraries), GitLab CI, GitHub Actions</li>
+        <li>🐳 <b>Orchestration:</b> Docker, Docker Swarm & Kubernetes</li>
+        <li>🏆 <b>Innovations:</b> Smart India Hackathon Winner (Hardware) & 2x Patent Holder</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="3D DevOps Animation" style="border-radius: 12px;"/>
+      <br/>
+      <small><i>⚡ Automated Infrastructure & Cloud Architecture</i></small>
+    </td>
+  </tr>
+</table>
 
 ```yaml
 name: Harshit Borana
@@ -41,26 +67,39 @@ core_focus: Cloud Automation, Zero-Downtime CI/CD, Microservices & Edge IoT
 philosophy: "If it has to be done twice, automate it. If it fails, build it to self-heal."
 ```
 
-Passionate and results-driven **DevOps Engineer** specializing in architecting resilient, secure, and auto-scaling cloud infrastructure. Experienced across **AWS** and **Azure** environments, building enterprise-grade **CI/CD pipelines**, automating with **Terraform**, orchestrating with **Kubernetes & Docker**, and monitoring with **Prometheus & Grafana**.
-
-Beyond cloud-native engineering, I bring a unique edge with deep roots in **IoT, Robotics, and Embedded Systems** (Hardware Edition Winner at **Smart India Hackathon** & **2x Patent Holder**). This enables me to seamlessly bridge hardware telemetry with high-throughput cloud backends.
-
-- 🔭 **Current Role:** DevOps Engineer at **Kadellabs** (Infrastructure as Code & CI/CD Pipelines)
-- ☁️ **Cloud Expertise:** Multi-cloud solutions across **AWS** (EC2, S3, RDS, Lambda, Route 53, IAM) & **Azure**
-- ⚙️ **Automation Mindset:** Modular **Jenkins Shared Libraries**, GitLab CI, and GitHub Actions
-- 📦 **Containers & Orchestration:** Docker, Docker Swarm, and Kubernetes deployments
-- 🏆 **Innovation:** SIH Hardware Winner, 2x Patent Holder, and Hackathon Champion
-
 ---
 
-### 🛠️ Tech Stack & Tooling
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="34" /> DevOps & Cloud Architecture Lifecycle
 
 <div align="center">
 
-<!-- Tech Icons Ribbon -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,jenkins,terraform,docker,kubernetes,ansible,linux,bash,gitlab,githubactions,grafana,prometheus,nginx,python,cpp,js,nodejs,react,mongodb,mysql&theme=dark&perline=11" />
-</a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="340" alt="Cloud Infrastructure Animation"/>
+        <br/>
+        <b>Continuous Integration & Cloud GitOps</b>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="340" alt="Terminal Server Automation"/>
+        <br/>
+        <b>Automated Shell Scripting & Zero-Touch Deployment</b>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="34" /> Tech Stack & Tooling
+
+<div align="center">
+
+  <!-- Interactive Skill Ribbon -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,jenkins,terraform,docker,kubernetes,ansible,linux,bash,gitlab,githubactions,grafana,prometheus,nginx,python,cpp,js,nodejs,react,mongodb,mysql&theme=dark&perline=11" alt="Tech Stack Ribbon" />
+  </a>
 
 </div>
 
@@ -80,7 +119,7 @@ Beyond cloud-native engineering, I bring a unique edge with deep roots in **IoT,
 
 ---
 
-### 💼 Professional Experience
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" /> Professional Experience
 
 #### 🚀 DevOps Engineer — **Kadellabs**
 *Current*
@@ -99,7 +138,7 @@ Beyond cloud-native engineering, I bring a unique edge with deep roots in **IoT,
 
 ---
 
-### 💡 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="34" /> Featured Projects
 
 <table>
   <tr>
@@ -168,7 +207,7 @@ Beyond cloud-native engineering, I bring a unique edge with deep roots in **IoT,
 
 ---
 
-### 🏆 Honors, Awards & Patents
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="34" /> Honors, Awards & Patents
 
 <div align="left">
 
@@ -222,22 +261,26 @@ Beyond cloud-native engineering, I bring a unique edge with deep roots in **IoT,
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit075&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Harshit's GitHub Stats" />
+  <!-- Main Stats & Streak Cards (Powered by verified endpoints) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=harshit075&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Harshit's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=harshit075&theme=tokyonight&hide_border=true" width="48%" alt="Harshit's Streak Stats" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit075&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages" />
+  <!-- Top Languages Compact Card -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harshit075&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=harshit075&theme=tokyonight&no-frame=true&row=1&column=6" width="92%" alt="Trophies" />
+  <!-- Neon Contribution Heatmap Chart -->
+  <h4>⚡ Contribution Timeline</h4>
+  <img src="https://ghchart.rshah.org/00e5ff/harshit075" alt="Harshit's Contribution Activity Chart" width="95%" />
 
   <br/><br/>
 
   <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/harshit075/harshit075/output/github-snake-dark.svg" width="92%" alt="Contribution Snake" />
+  <h4>🐍 Contribution Snake Game</h4>
+  <img src="https://raw.githubusercontent.com/harshit075/harshit075/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
 
 </div>
 
