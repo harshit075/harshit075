@@ -441,9 +441,9 @@ flowchart LR
   <br/><br/>
 
   <!-- Contribution Snake Animation -->
-  <h4>🐍 Contribution Snake Game</h4>
-  <img src="https://raw.githubusercontent.com/harshit075/harshit075/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
-  ## 🚀 Galaga Contribution Graph
+  <h4>🐦‍🔥 Contribution Galaga Game</h4>
+   <!-- <img src="https://raw.githubusercontent.com/harshit075/harshit075/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />-->
+ 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshit075/harshit075/output/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshit075/harshit075/output/galaga-contribution-graph.svg">
