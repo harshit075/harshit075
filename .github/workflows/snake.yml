@@ -1,4 +1,4 @@
-name: GitHub Snake Game
+name: GitHub Contribution Graphs
 
 on:
   # Schedule the workflow to run daily at midnight UTC
@@ -17,27 +17,22 @@ permissions:
   contents: write
 
 concurrency:
-  group: snake-generation
+  group: profile-graphs
   cancel-in-progress: true
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
-
-          # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -48,12 +43,58 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Upload so the deploy job (which runs after both generators) can pick it up
+      - name: Upload snake output
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-dist
+          path: dist
+
+  generate-galaga:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Fighter jet firing lasers at your contribution grid
+      - name: Generate Galaga Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'galaga'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload galaga output
+        uses: actions/upload-artifact@v4
+        with:
+          name: galaga-dist
+          path: dist
+
+  deploy:
+    needs: [generate-snake, generate-galaga]
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Download snake output
+        uses: actions/download-artifact@v4
+        with:
+          name: snake-dist
+          path: dist
+
+      - name: Download galaga output
+        uses: actions/download-artifact@v4
+        with:
+          name: galaga-dist
+          path: dist
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          # Optionally, you can set a custom commit message
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "Update contribution graphs [skip ci]"
